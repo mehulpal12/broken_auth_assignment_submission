@@ -1,0 +1,28 @@
+
+The final command output clearly shows the generated **success_flag**, as required.
+
+---
+
+## 📂 Submission Details
+
+- Public GitHub repository
+- Fixed authentication flow
+- `output.txt` included with terminal outputs
+- All assignment requirements fulfilled
+
+{
+    "message": "Access granted",
+    "user": {
+        "email": "mehulpal111@gmail.com",
+        "sessionId": "exzca6",
+        "iat": 1770829732,
+        "exp": 1770830632
+    },
+    "success_flag": "FLAG-bWVodWxwYWw3Njc4QGdtYWlsLmNvbV9DT01QTEVURURfQVNTSUdOTUVOVA=="
+}
+
+---
+
+## 🔗 Repository Link
+
+https://github.com/mehulpal12/broken_auth_assignment_submission/tree/main
