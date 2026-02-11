@@ -25,4 +25,4 @@ The final command output clearly shows the generated **success_flag**, as requir
 
 ## 🔗 Repository Link
 
-https://github.com/mehulpal12/broken_auth_assignment_submission/tree/main
+https://github.com/mehulpal12/broken_auth_assignment_submission
